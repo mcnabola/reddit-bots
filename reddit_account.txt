@@ -1,0 +1,11 @@
+Creating an account or using your old account.
+
+Go to our subreddit r/ulcompsoc
+
+registering for dev credentials 
+
+redirect_url = 127.0.0.1
+
+This is not important as you are running a script from the terminal.
+
+Explaining oauth is another challenge in itself.

@@ -1,0 +1,16 @@
+Both Python2 and Python3 are installed on most Linux distros by default
+
+Do all of this in a terminal.
+
+   PIP is not usually installed on Linux
+     sudo apt install python3-pip
+
+   pip3 uses the python3 installer   
+     sudo pip3 install praw
+
+test to see is praw installed 
+     python3
+
+>> import praw
+ 
+if no error message comes up then it is installed.

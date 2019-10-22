@@ -1,0 +1,32 @@
+
+
+naviagate to the directory that you want in the terminal 
+
+if on windows type > dir
+if on GNU/Linux ;^) or Mac type > ls
+
+to see where the terminal is currently pointed.
+
+To navigate to other directories type > cd the_folder
+so if you are in home and want to move to Documents 
+cd Documents
+
+When you are in the directory with your script. Type 
+
+python3 your_script.py
+
+experiment with using python your_script.py and guess why it does work or it doesnt work.
+
+This depends on if python2 is also installed. 
+If its not python on its own will work 
+
+do both python and python3 have the same result?
+
+
+
+===
+
+Windows - open the python script in idle
+The above steps would have worked for you but theres an alternative
+To open idle, press the windows key and type idle open and code from there
+To run press f5

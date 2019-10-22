@@ -1,0 +1,5 @@
+if you have an infinite loop in your code 
+keep pressing ctrl-c to force stop the execution 
+
+Dont want to spam post stuff to the reddit board 
+
